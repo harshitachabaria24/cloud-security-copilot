@@ -1,0 +1,16 @@
+resource_id,cloud_provider,resource_type,public_access,encryption_enabled,cpu_utilization,iam_privilege,monthly_cost
+r1,AWS,VM,Yes,Yes,5,Admin,120
+r2,Azure,Storage,No,No,0,User,40
+r3,GCP,VM,No,Yes,70,User,100
+r4,AWS,Storage,Yes,No,0,Admin,60
+r5,GCP,VM,No,Yes,8,User,110
+r6,Azure,VM,No,Yes,15,User,90
+r7,AWS,Database,Yes,Yes,50,Admin,200
+r8,GCP,Storage,No,No,0,User,30
+r9,Azure,VM,Yes,No,3,Admin,150
+r10,AWS,VM,No,Yes,80,User,130
+r11,GCP,Database,No,Yes,65,User,180
+r12,Azure,Storage,Yes,No,0,Admin,70
+r13,AWS,VM,No,Yes,12,User,95
+r14,GCP,VM,Yes,Yes,4,Admin,140
+r15,Azure,Database,No,Yes,55,User,160
